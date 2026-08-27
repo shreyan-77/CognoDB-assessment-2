@@ -8,6 +8,16 @@ The application uses **CognoDB as the graph database** to model and traverse rel
 
 ---
 
+# Screenshots
+
+## Developer Selection & Role Matching
+
+![SkillMatch Role Matching](Screenshot%202026-08-27%20180401.png)
+
+## Skill Gap Analysis
+
+![SkillMatch Skill Gap Analysis](Screenshot%202026-08-27%20180421.png)
+
 ## Overview
 
 SkillMatch answers two main questions:
